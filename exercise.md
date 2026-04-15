@@ -20,7 +20,7 @@ AND period = 'I semestre';
 SELECT *
 FROM exams
 WHERE date = '2020-06-20'
-AND hour > '14:01:00';
+AND hour > '14:00:00';
 
 # Selezionare tutti i corsi di laurea magistrale (38)
 
